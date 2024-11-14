@@ -2,11 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zerarka Mohamed Wail
 ============================================================================================================================================
 
 AI Enthusiast | Machine Learning Developer | Cisco Certified | Data Science Advocate | Passionate About Building Intelligent Solutions
 --------------------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="left">About me:</h3>
 I’m a Master's graduate in Artificial Intelligence from University Mohamed Khider in Biskra, Algeria, with a strong foundation in Computer Science. My expertise spans AI, machine learning, and data science, and I’m passionate about developing intelligent systems to solve real-world problems. Alongside my academic background, I am also Cisco Certified Network Associate (CCNA), with knowledge in networking and system infrastructure. I enjoy working on projects that explore machine learning models, recommendation systems, and data prediction, always seeking to expand my skill set and stay up-to-date with the latest technologies. I have experience in web development and creating user-friendly applications. In addition to my technical work, I’m passionate about contributing to open-source projects and collaborating with others in the tech community. I’m always eager to learn, share knowledge, and connect with like-minded individuals interested in AI, data science, and technology.
 
@@ -23,4 +25,6 @@ I’m a Master's graduate in Artificial Intelligence from University Mohamed Khi
 
 <p align="left"> <a href="https://www.facebook.com/wail.luffi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/zerarka-mohmamed-wail" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/wail-mohamed-zerarka-684663317" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerarka-mohmamed-wail&theme=dark&background=000000)](https://git.io/streak-stats)
                    
